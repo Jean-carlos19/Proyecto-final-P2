@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\MiPrimerAPI\MiPrimerAPI\obj\Debug\net8.0\MiPrimerAPI.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\MiPrimerAPI\MiPrimerAPI\obj\Debug\net8.0\MiPrimerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\MiPrimerAPI\MiPrimerAPI\obj\Debug\net8.0\MiPrimerAPI.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MiPrimerAPI\MiPrimerAPI\obj\Debug\net8.0\MiPrimerAPI.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MiPrimerAPI\MiPrimerAPI\obj\Debug\net8.0\MiPrimerAPI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MiPrimerAPI\MiPrimerAPI\obj\Debug\net8.0\MiPrimerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MiPrimerAPI\MiPrimerAPI\obj\Debug\net8.0\MiPrimerAPI.MvcApplicationPartsAssemblyInfo.cache
